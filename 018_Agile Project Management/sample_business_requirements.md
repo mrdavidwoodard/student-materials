@@ -42,11 +42,14 @@ The second phase will include applying innovative solutions that in enhance comm
 ## Personnel requirements
 
 With the quick to market approach, a dedicated team is needed to complete this project. 
- *1- Project Manager
-  1- Front End Developer
-  2- Full Stack Developer (JavaScript)
-  1- System Architect
-  1- Product Owner*
+| Team Role              | Duration      | QTY   |
+| ---------------------- |:-------------:| -----:|
+| Project Manager        | 3 Months      |    1  |
+| Front End Developer    | 3 Months      |    1  |
+| Full Stack (JavaScript)| 3 Months      |    2  |
+| System Architect       | 3 Months      |    1  |
+| Product Owner          | 3 Months      |    1  |
+| User/Test Group        | 3 Months      |    1  |
 
 ## Delivery schedule
 
